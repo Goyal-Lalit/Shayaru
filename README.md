@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# 📱 Notes & Links Manager App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern and secure **Notes + Links Manager** mobile application built with **React Native (Expo)** and **Supabase**.  
+This project was created with the help of (ChatGPT) for learning and development purposes. 🙌
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+### 🔐 Security
+- **Landing Lock Screen** with passcode authentication for extra privacy.
 
-2. Start the app
+### 🏠 Home Tab (Notes)
+- Create, edit, and delete notes.  
+- Notes stored securely in **Supabase Database**.  
+- Scrollable list of all saved notes with clean UI design.  
 
-   ```bash
-   npx expo start
-   ```
+### 🔗 Links Tab
+- Save important links with titles.  
+- Edit or delete saved links anytime.  
+- Links stored in Supabase for persistence.  
 
-In the output, you'll find options to open the app in a
+### ⚙️ Settings Tab
+- Update **Profile Photo** & **User Name**.  
+- Change passcode.  
+- Access Privacy Policy.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
+- **React Native (Expo)** – for cross-platform app development.  
+- **Supabase** – for authentication & database (storing notes and links).  
+- **AsyncStorage** – for local storage (passcode, session info).  
+- **Expo Router** – for navigation.  
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📸 Screenshots
 
-```bash
-npm run reset-project
-```
+![IMG-20250827-WA0031](https://github.com/user-attachments/assets/aa06e9ce-6bba-42aa-afa0-6792c1b479be)
+![IMG-20250827-WA0029](https://github.com/user-attachments/assets/565b8537-f719-4df9-ba4c-9b4126f0738b)
+![IMG-20250827-WA0030](https://github.com/user-attachments/assets/94e76024-4cbf-4498-8a89-a16d2f86e0be)
+![IMG-20250827-WA0028](https://github.com/user-attachments/assets/887c5355-8678-46ba-b26c-aa9671ae6fdc)
+![IMG-20250827-WA0034](https://github.com/user-attachments/assets/eeecba53-e420-4128-9a87-105582d0a361)
+![IMG-20250827-WA0032](https://github.com/user-attachments/assets/9b1bb93d-5b51-4998-81c6-960850110d7c)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+---
+## working 
+- **I can't give you apk because it's personal**
+- **also api not available**
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **if you want to create this application you can use my code it's free and open source** 
